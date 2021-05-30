@@ -11,3 +11,9 @@ This is a para.
 *Italic*
 
 **Bold**
+
+```
+if (isAwesome){
+  return true
+}
+```
